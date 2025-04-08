@@ -1,3 +1,3 @@
 # Frequently Asked Questions (FAQ)
 
-draft - work in progress - request for comments
+This repo is a placeholder for our development and experimentation.
