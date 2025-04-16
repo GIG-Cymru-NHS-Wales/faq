@@ -1,6 +1,8 @@
 # Welsh Clinical Portal
 
-Note: This is an automatic summary by OpenAI ChatGPT for the prompt "Explain Welsh Clinical Portal (WCP) by NHS Wales"
+Note: This is an automatic summary by OpenAI ChatGPT for the prompt "Explain Welsh Clinical Portal (WCP) by NHS Wales". This
+summary has NOT been verified by a human editor, and is only for experimental
+ChatGPT purposes.
 
 ## 🏥 What is the Welsh Clinical Portal (WCP)?
 
@@ -24,6 +26,7 @@ It pulls this data from different NHS Wales systems, making it easier to **get a
 ## 👩‍⚕️ Who uses the Welsh Clinical Portal (WCP)?
 
 The portal is used by:
+
 - Doctors
 - Nurses
 - Pharmacists
