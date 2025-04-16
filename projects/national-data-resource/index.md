@@ -34,15 +34,15 @@ The NDR:
 
 Here’s what the NDR helps NHS Wales achieve:
 
-- 🔍 **Better patient care** - Clinicians get faster access to joined-up patient info
+- 🔍 **Better patient care**: Clinicians get faster access to joined-up patient info
 
-- 📊 **Smarter decisions** - Health boards and planners use data to improve services
+- 📊 **Smarter decisions**: Health boards and planners use data to improve services
 
-- 🔬 **More effective research** - Researchers can safely access high-quality data for innovation
+- 🔬 **More effective research**: Researchers can safely access high-quality data for innovation
 
-- 📉 **Reduced duplication** - Unified records mean less repeated data collection
+- 📉 **Reduced duplication**: Unified records mean less repeated data collection
 
-- ✅ **National consistency** - Everyone works from the same trusted data sources
+- ✅ **National consistency**: Everyone works from the same trusted data sources
 
 ## 🔐 How Is Data Managed?
 
