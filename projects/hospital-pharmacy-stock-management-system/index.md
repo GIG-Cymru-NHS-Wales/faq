@@ -1,9 +1,9 @@
 # Hospital Pharmacy Stock Management System (HPSMS)
 
 Note: This is an automatic summary by OpenAI ChatGPT for the prompt "Explain
-Electronic Prescribing and Medicines Administration (ePMA) by NHS Wales". This
-summary has NOT been verified by a human editor, and is only for experimental
-ChatGPT purposes.
+Hospital Pharmacy Stock Management System (HPSMS) by NHS Wales". This summary
+has NOT been verified by a human editor, and is only for experimental ChatGPT
+purposes.
 
 ## 💊 What is the Hospital Pharmacy Stock Management System (HPSMS)?
 

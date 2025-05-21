@@ -1,9 +1,8 @@
 # National Data Resource (NDR)
 
 Note: This is an automatic summary by OpenAI ChatGPT for the prompt "Explain
-Electronic Prescribing and Medicines Administration (ePMA) by NHS Wales". This
-summary has NOT been verified by a human editor, and is only for experimental
-ChatGPT purposes.
+National Data Resource (NDR) by NHS Wales". This summary has NOT been verified
+by a human editor, and is only for experimental ChatGPT purposes.
 
 ## 📊 What is the National Data Resource (NDR)?
 
